@@ -1,0 +1,12 @@
+fastembed
+langchain
+langchain_community
+langchain-ollama
+PyMuPDF
+qdrant-client==1.7.0
+sentence-transformers[all-MiniLM-L6-v2]
+pip install -U langchain-qdrant
+
+pip install langchain-huggingface
+
+https://qdrant.tech/documentation/agentic-rag-crewai-zoom/

@@ -1,0 +1,6 @@
+fastembed
+langchain
+langchain_community
+langchain-ollama
+PyMuPDF
+chromadb

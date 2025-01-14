@@ -1,0 +1,7 @@
+fastembed
+langchain
+langchain_community
+langchain-ollama
+PyMuPDF
+qdrant-client==1.7.0
+sentence-transformers[all-MiniLM-L6-v2]

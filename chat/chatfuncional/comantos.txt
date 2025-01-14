@@ -1,0 +1,5 @@
+docker build -t imagen-chat-funcional .
+docker run -it --network ollama-n8n-network imagen-chat-funcional
+
+docker run -it --network ollama-n8n-network --name chat-funcional imagen-chat-funcional
+docker start -i chat-funcional

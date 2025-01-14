@@ -1,0 +1,1 @@
+https://qdrant.tech/documentation/beginner-tutorials/neural-search/
